@@ -7,8 +7,10 @@ in frontend we imported react-google-login
 
 This are some sample ScreenShots.
 How this Application looks like:
-![Screenshot (73)](https://github.com/Rakeshreddysr2401/calender/assets/102222142/99ff4a97-117d-4b1f-a07d-0c719c6fea58)
 
+____________________________________________________________________________________________________________________________________________________________________________
+![Screenshot (73)](https://github.com/Rakeshreddysr2401/calender/assets/102222142/99ff4a97-117d-4b1f-a07d-0c719c6fea58)
+_____________________________________________________________________________________________________________________________________________________________________________
 ![Screenshot (74)](https://github.com/Rakeshreddysr2401/calender/assets/102222142/49cec381-e88b-4b41-9a5a-55bdd401b27a)
 
 
